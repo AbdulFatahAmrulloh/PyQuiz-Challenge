@@ -1,4 +1,3 @@
-Berikut deskripsi yang menarik dan profesional untuk repositori GitHub **Quiz-Python** Anda:  
 
 ---  
 
@@ -23,7 +22,7 @@ Selamat datang di **Quiz-Python**! 🎉 Repositori ini berisi kumpulan **soal in
 ## 🚀 **Cara Menggunakan**  
 1️⃣ **Clone repositori ini ke lokal Anda**  
    ```bash
-   git clone https://github.com/PyQuiz-Challenge/Quiz-Python.git
+   git clone https://github.com/AbdulFatahAmrulloh/Quiz-Python.git
    ```  
 2️⃣ **Jalankan skrip kuis**  
    ```bash
@@ -45,4 +44,4 @@ Kami terbuka untuk masukan dan tambahan soal baru! Jika Anda ingin berkontribusi
 
 ---
 
-Pastikan Anda mengganti `https://github.com/PyQuiz-Challenge/Quiz-Python.git` dengan URL repositori yang sesuai. Semoga sukses dengan proyek **Quiz-Python** Anda! 🚀🐍
+Pastikan Anda mengganti `https://github.com/AbdulFatahAmrulloh/Quiz-Python.git` dengan URL repositori yang sesuai. Semoga sukses dengan proyek **Quiz-Python** Anda! 🚀🐍
